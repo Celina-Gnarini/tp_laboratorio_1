@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1599884343 source:c:\users\mary\desktop\prog.lab\tp_laboratorio_1\tp1.gnarinicelina.1c\main.c
+	"tp1.Operaciones.h"
+
+1599883981 c:\users\mary\desktop\prog.lab\tp_laboratorio_1\tp1.gnarinicelina.1c\tp1.operaciones.h
+	<stdio.h>
+
+1599884368 source:c:\users\mary\desktop\prog.lab\tp_laboratorio_1\tp1.gnarinicelina.1c\tp1.operaciones.c
+	"tp1.Operaciones.h"
+
